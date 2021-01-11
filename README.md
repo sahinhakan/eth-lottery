@@ -1,2 +1,2 @@
 # eth-lottery
-Lettery Smart Contract
+Lottery Smart Contract
